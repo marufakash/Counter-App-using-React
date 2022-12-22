@@ -1,0 +1,21 @@
+.counter h1 {
+    padding-bottom: 20px;
+    font-weight: 500;
+    color: #333;
+}
+.count {
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.counter div {
+    text-align: center;
+}
+.counter div button {
+    margin: 20px 10px;
+    padding: 7px;
+    background-color: lavender;
+    cursor: pointer;
+    border: 1px solid #333;
+    border-radius: 3px;
+}
